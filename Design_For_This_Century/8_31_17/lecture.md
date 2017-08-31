@@ -5,11 +5,11 @@ privacy, politics, climate change
 
 
 -------------------------
-##Meta Narrative 
+## Meta Narrative 
 - organizing principles for culture (i.e. religious mythology, democracy, american dream). 
 - Horatio Alger 1832-1899. Cooper Union. Myth & morality of rags to riches. 
 
-##Slime Mold - Physarum polycephalum (model for systems behavior)
+## Slime Mold - Physarum polycephalum (model for systems behavior)
 - ability to move through maze to find oatmeal. Responds to a pavlovian experiment.
 - used in tokyo to find shortest routes for train systems.
 - Steven Johnson, _Emergence, 2001_
@@ -41,4 +41,8 @@ privacy, politics, climate change
 - Her
 - 2001 Space Odyssey Post human
 - District 9
+
+----------------------------------
+- futurist manifesto
+- post blog post 2 days before class so tuesdays
 
