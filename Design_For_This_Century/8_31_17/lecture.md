@@ -45,4 +45,8 @@ privacy, politics, climate change
 ----------------------------------
 - futurist manifesto
 - post blog post 2 days before class so tuesdays
+- check slack regularly
+- reading moderators, read blog posts on tuesday, chat on wednesday and come up with moderating questions
+- 250 summary split with other moderator use summary notes to help you go through the reading
+- Moderators still do personal reflections
 
