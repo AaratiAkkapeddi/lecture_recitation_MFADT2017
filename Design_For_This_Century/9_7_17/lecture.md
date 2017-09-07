@@ -1,15 +1,15 @@
 ## Life, energy flow, mind, temporal horizons, technologies, sapience
 
-###Sand County Almanac, Corpus Atomicus
+### Sand County Almanac, Corpus Atomicus
 connnections between geologic time, non human and human life and a theory of general economy based on energy flows in [eco]systems. With an orientation toward a kind of deep ecology but with different consequences for leopold and bataille. How and where is the mind produced and what does it do? 
 
-###Cave of Forgotten dreams
+### Cave of Forgotten dreams
 the horizons of human history also framed by geological time
 
-###Mastery of Non-Mastery, Outing AI
+### Mastery of Non-Mastery, Outing AI
 gender, war, political change, technological change, AI
 
-###Xenofeminist Manifesto
+### Xenofeminist Manifesto
 thinking the limits of gender, the alien, in pursuit of a radical universalism.
 
 
