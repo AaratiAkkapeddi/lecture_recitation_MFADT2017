@@ -19,6 +19,6 @@ thinking the limits of gender, the alien, in pursuit of a radical universalism.
 - Do large systems do something like thinking? Gaia Hypothesis
 - Error has turned animals into men Might truth be capable of turning men into animals again?
 - We need to refame radically how we construct our image and agency of ourselves? If we do it from a radically non-human perspective we can better understand our biases.
-- 
+------------------------------------------------------------------- 
 - Role that fiction plays in our society. Look into science fiction.
 - Different design methodology, Whole world system, transition design, universal design, design process not meant to end, human-centered design, design fictions.
